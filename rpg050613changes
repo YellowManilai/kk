@@ -1,0 +1,1848 @@
+        "alpaca": {
+            "name": "Alpaca",
+            "level": 1,
+            "exp": 15,
+            "gold": 1,
+            "stats": {
+                "hp": 21,
+                "dex": 2,
+                "mp": 0,
+                "str": 0,
+                "def": 1,
+                "spd": 1,
+                "mag": 1
+            },
+            "skills": {
+                "spit": 1
+            },
+            "strategy": {
+                "spit": 1
+            },
+            "loot": {
+                "none": 0.95,
+                "saliva": 0.05
+            }
+        },
+        "alpaca40": {
+            "name": "Ahlpacka",
+            "level": 41,
+            "exp": 13500,
+            "gold": 100,
+            "stats": {
+                "hp": 840,
+                "dex": 30,
+                "mp": 0,
+                "str": 30,
+                "def": 40,
+                "spd": 40,
+                "mag": 40
+            },
+            "skills": {
+                "spit": 3,
+  			"hop": 1
+            },
+            "strategy": {
+                "spit": 0.9,
+				"hop": 0.1
+            },
+            "loot": {
+                "none": 0.6,
+                "saliva": 0.3,
+				"fleece": 0.1
+            }
+        },        "blalpaca": {
+            "name": "Black Alpaca",
+            "level": 4,
+            "exp": 53,
+            "gold": 3,
+            "stats": {
+                "hp": 49,
+                "dex": 2,
+                "mp": 0,
+                "str": 0,
+                "def": 3,
+                "spd": 5,
+                "mag": 3
+            },
+            "skills": {
+                "spit": 2
+            },
+            "strategy": {
+                "spit": 1
+            },
+            "loot": {
+                "none": 0.8,
+                "saliva": 0.1,
+                "fleece": 0.1
+            }
+        },
+        "blalpaca40": {
+            "name": "Black Ahlpacka",
+            "level": 44,
+            "exp": 20300,
+            "gold": 300,
+            "stats": {
+                "hp": 1225,
+                "dex": 50,
+                "mp": 0,
+                "str": 40,
+                "def": 40,
+                "spd": 50,
+                "mag": 50
+            },
+            "skills": {
+				"spit": 4,
+                "hop": 2
+            },
+            "strategy": {
+                "spit": 0.9,
+				"hop": 0.1
+            },
+            "loot": {
+                "none": 0.4,
+                "saliva": 0.4,
+                "fleece": 0.2
+            }
+        },
+        "bralpaca": {
+            "name": "Brown Alpaca",
+            "level": 2,
+            "exp": 27,
+            "gold": 2,
+            "stats": {
+                "hp": 32,
+                "dex": 1,
+                "mp": 0,
+                "str": 0,
+                "def": 4,
+                "spd": 4,
+                "mag": 2
+            },
+            "skills": {
+                "spit": 1
+            },
+            "strategy": {
+                "spit": 1
+            },
+            "loot": {
+                "none": 0.8,
+                "saliva": 0.1,
+                "fleece": 0.1
+            }
+        },
+        "bralpaca40": {
+            "name": "Brown Ahlpacka",
+            "level": 42,
+            "exp": 17700,
+            "gold": 200,
+            "stats": {
+                "hp": 1120,
+                "dex": 40,
+                "mp": 0,
+                "str": 30,
+                "def": 50,
+                "spd": 50,
+                "mag": 30
+            },
+            "skills": {
+				"spit": 4,
+                "hop": 1
+            },
+            "strategy": {
+                "spit": 0.9,
+				"hop": 0.1
+            },
+            "loot": {
+                "none": 0.5,
+                "saliva": 0.35,
+                "fleece": 0.15
+            }
+        },
+        "citizen": {
+            "name": "Citizen",
+            "level": 10,
+            "exp": 1500,
+            "gold": 100,
+            "stats": {
+                "hp": 330,
+                "dex": 2,
+                "mp": 180,
+                "str": 8,
+                "def": 18,
+                "spd": 10,
+                "mag": 5
+            },
+            "skills": {
+                "attack": 1,
+				"erest": 2,
+				"charge": 2,
+				"hop": 2,
+				"spit": 2,
+				"aimed": 2,
+				"crouch": 2,
+				"mob": 2
+            },
+            "strategy": {
+                "attack": 0.25,
+				"erest": 0.15,
+				"charge": 0.1,
+				"hop": 0.1,
+				"spit": 0.1,
+				"aimed": 0.1,
+				"crouch": 0.1,
+				"mob": 0.1
+            },
+            "loot": {
+                "none": 0.85,
+                "bow": 0.05,
+				"wig": 0.05,
+				"corn": 0.05
+            }
+        },
+        "cobbler": {
+            "name": "Cobbler",
+            "level": 40,
+            "exp": 500000,
+            "gold": 15000,
+            "stats": {
+                "hp": 30000,
+                "dex": 50,
+                "mp": 2000,
+                "str": 100,
+                "def": 85,
+                "spd": 5,
+                "mag": 5
+            },
+			"passives": {
+				"boss": 4
+			},
+            "skills": {
+                "attack": 1,
+				"erest": 4,
+				"mob": 5,
+				"poison": 5,
+				"polish": 1,
+				"shoe": 1
+            },
+            "strategy": {
+                "attack": 0.1,
+				"erest": 0.1,
+				"mob": 0.2,
+				"poison": 0.15,
+				"polish": 0.15,
+				"shoe": 0.3
+            },
+            "loot": {
+                "shoes": 1
+            }
+        },
+        "crankyoldman": {
+            "name": "Cranky Old Man",
+            "level": 50,
+            "exp": 2000000,
+            "gold": 50000,
+            "stats": {
+                "hp": 300000,
+                "dex": 20,
+                "mp": 2500,
+                "str": 110,
+                "def": 110,
+                "spd": 10,
+                "mag": 110
+            },
+			"passives": {
+				"boss": 5
+			},
+            "skills": {
+                "attack": 1,
+				"erest": 4,
+				"charge": 5,
+				"smash": 5,
+				"roar": 5,
+				"empower": 5,
+				"hop": 5,
+				"spit": 5,
+				"nbreath": 5,
+				"polish": 1
+            },
+            "strategy": {
+                "attack": 0.05,
+				"erest": 0.2,
+				"charge": 0.05,
+				"smash": 0.05,
+				"roar": 0.05,
+				"empower": 0.1,
+				"hop": 0.1,
+				"spit": 0.1,
+				"nbreath": 0.15,
+				"polish": 0.15
+            },
+            "loot": {
+                "prune": 0.26,
+				"prune juice": 0.23,
+				"record needle": 0.15,
+				"record disc": 0.15,
+				"dentures": 0.102,
+				"rusty locket": 0.064,
+				"suspenders": 0.032,
+				"record player": 0.012
+            }
+        },
+        "grabbit40": {
+            "name": "Grey Rwabbiht",
+            "level": 42,
+            "exp": 17700,
+            "gold": 200,
+            "stats": {
+                "hp": 1248,
+                "dex": 40,
+                "mp": 0,
+                "str": 40,
+                "def": 40,
+                "spd": 50,
+                "mag": 30
+            },
+            "skills": {
+                "hop": 4,
+				"spit": 1
+            },
+            "strategy": {
+                "hop": 0.9,
+				"spit": 0.1
+            },
+            "loot": {
+                "none": 0.5,
+                "carrot": 0.35,
+                "cotton": 0.15
+            }
+        },
+        "littleboy": {
+            "name": "Little Boy",
+            "level": 12,
+            "exp": 1000000,
+            "gold": 20000,
+            "stats": {
+                "hp": 60000,
+                "dex": 160,
+                "mp": 2000,
+                "str": 35,
+                "def": 90,
+                "spd": 40,
+                "mag": 5
+            },
+			"passives": {
+				"boss": 5
+			},
+            "skills": {
+                "attack": 1,
+				"erest": 4,
+				"charge": 4,
+				"sprint": 5,
+				"smash": 4,
+				"roar": 5,
+				"mob": 4,
+				"tantrum": 5
+            },
+            "strategy": {
+                "attack": 0.1,
+				"erest": 0.15,
+				"charge": 0.1,
+				"sprint": 0.15,
+				"smash": 0.05,
+				"roar": 0.05,
+				"mob": 0.25,
+				"tantrum": 0.15
+            },
+            "loot": {
+                "tagcoin": 0.4,
+				"stagcoin": 0.4,
+				"gtagcoin": 0.2
+            }
+        },
+        "littlegirl": {
+            "name": "Little Girl",
+            "level": 12,
+            "exp": 1000000,
+            "gold": 20000,
+            "stats": {
+                "hp": 60000,
+                "dex": 175,
+                "mp": 2000,
+                "str": 50,
+                "def": 75,
+                "spd": 25,
+                "mag": 5
+            },
+			"passives": {
+				"boss": 5
+			},
+            "skills": {
+                "attack": 1,
+				"erest": 4,
+				"charge": 5,
+				"sprint": 4,
+				"smash": 4,
+				"roar": 4,
+				"mob": 5,
+				"tantrum": 5
+            },
+            "strategy": {
+                "attack": 0.1,
+				"erest": 0.15,
+				"charge": 0.1,
+				"sprint": 0.1,
+				"smash": 0.05,
+				"roar": 0.05,
+				"mob": 0.2,
+				"tantrum": 0.25
+            },
+            "loot": {
+                "tagcoin": 0.4,
+				"stagcoin": 0.4,
+				"gtagcoin": 0.2
+            }
+        },
+        "lrabbit40": {
+            "name": "Large Rwabbiht",
+            "level": 45,
+            "exp": 32600,
+            "gold": 500,
+            "stats": {
+                "dex": 50,
+                "hp": 2728,
+                "mp": 0,
+                "str": 60,
+                "def": 50,
+                "spd": 50,
+                "mag": 40
+            },
+            "skills": {
+				"hop": 5,
+				"burrow": 5,
+                "spit": 2,
+                "shriek": 1
+            },
+            "strategy": {
+                "hop": 0.7,
+                "burrow": 0.2,
+				"spit": 0.05,
+				"shriek": 0.05
+            },
+            "loot": {
+                "none": 0.2,
+                "carrot": 0.5,
+                "cotton": 0.3
+            }
+        },
+        "rabbit40": {
+            "name": "Rwabbiht",
+            "level": 41,
+            "exp": 13500,
+            "gold": 100,
+            "stats": {
+                "hp": 910,
+                "dex": 40,
+                "mp": 0,
+                "str": 40,
+                "def": 30,
+                "spd": 40,
+                "mag": 30
+            },
+            "skills": {
+                "hop": 5,
+				"spit": 1
+            },
+            "strategy": {
+                "hop": 0.9,
+				"spit": 0.1
+            },
+            "loot": {
+                "none": 0.6,
+                "carrot": 0.3,
+				"cotton": 0.1
+            }
+        },
+        "talpaca": {
+            "name": "Tiny Alpaca",
+            "level": 5,
+            "exp": 86,
+            "gold": 5,
+            "stats": {
+                "dex": 3,
+                "hp": 66,
+                "mp": 0,
+                "str": 0,
+                "def": 8,
+                "spd": 14,
+                "mag": 5
+            },
+            "skills": {
+                "spit": 2,
+                "shriek": 1
+            },
+            "strategy": {
+                "spit": 0.75,
+                "shriek": 0.25
+            },
+            "loot": {
+                "none": 0.8,
+                "saliva": 0.1,
+                "fleece": 0.1
+            }
+        },
+        "talpaca40": {
+            "name": "Tiny Ahlpacka",
+            "level": 45,
+            "exp": 32600,
+            "gold": 500,
+            "stats": {
+                "dex": 30,
+                "hp": 2310,
+                "mp": 0,
+                "str": 30,
+                "def": 60,
+                "spd": 56,
+                "mag": 50
+            },
+            "skills": {
+                "spit": 5,
+                "shriek": 1,
+				"hop": 2,
+				"burrow": 1
+            },
+            "strategy": {
+                "spit": 0.7,
+                "shriek": 0.2,
+				"hop": 0.05,
+				"burrow": 0.05
+            },
+            "loot": {
+                "none": 0.2,
+                "saliva": 0.5,
+                "fleece": 0.3
+            }
+        },
+        "villager": {
+            "name": "Villager",
+            "level": 10,
+            "exp": 1500,
+            "gold": 100,
+            "stats": {
+                "hp": 360,
+                "dex": 2,
+                "mp": 180,
+                "str": 16,
+                "def": 10,
+                "spd": 5,
+                "mag": 1
+            },
+            "skills": {
+                "attack": 1,
+				"erest": 2,
+				"charge": 2,
+				"hop": 1,
+				"spit": 3,
+				"aimed": 2,
+				"crouch": 1,
+				"mob": 3
+            },
+            "strategy": {
+                "attack": 0.3,
+				"erest": 0.1,
+				"charge": 0.05,
+				"hop": 0.1,
+				"spit": 0.15,
+				"aimed": 0.05,
+				"crouch": 0.1,
+				"mob": 0.15
+            },
+            "loot": {
+                "none": 0.85,
+                "bow": 0.05,
+				"wig": 0.05,
+				"corn": 0.05
+            }
+        },
+        "wrabbit40": {
+            "name": "White Rwabbiht",
+            "level": 44,
+            "exp": 20300,
+            "gold": 300,
+            "stats": {
+                "hp": 1540,
+                "dex": 50,
+                "mp": 0,
+                "str": 40,
+                "def": 40,
+                "spd": 60,
+                "mag": 40
+            },
+            "skills": {
+                "hop": 4,
+				"spit": 2
+            },
+            "strategy": {
+                "hop": 0.9,
+				"spit": 0.1
+            },
+            "loot": {
+                "none": 0.4,
+                "carrot": 0.4,
+                "cotton": 0.2
+            }
+        }
+		
+        "mob": {
+            "name": "Mob",
+            "info": "A mass attack that also lowers the target's Speed and Dexterity.",
+            "message": "~User~ calls for the mob to swarm ~Target~, slowing them down and tripping them up!",
+            "levels": 5,
+            "cost": 6,
+            "modifier": [
+                8,
+                11,
+                17,
+                26,
+                38
+            ],
+			"effect": {
+				"spd": [
+					-4,
+					-8,
+					-12,
+					-16,
+					-20
+				],
+				"dex": [
+					-6,
+					-12,
+					-18,
+					-24,
+					-30
+				]
+			},
+            "type": "physical",
+            "target": "enemy"
+        },
+        "tantrum": {
+            "name": "Tantrum",
+            "info": "A deadly storm of rage reducing the enemy's HP and MP over time.",
+            "message": "~User~ flies into a rage and throws a surprise deadly tantrum against ~Target~!",
+            "levels": 5,
+            "cost": 10,
+			"cast": 2,
+			"effect": {
+				"breakCast": 0.7,
+                "duration": [
+                    4,
+                    4,
+                    5,
+                    5,
+                    6
+                ],
+				"hpdamage": [
+					-8,
+					-16,
+					-24,
+					-32,
+					-40
+				],
+				"mpdamage": [
+					0,
+					0,
+					-2,
+					-2,
+					-4
+				]
+			},
+            "type": "support",
+            "target": "enemy"
+        },
+        "polish": {
+            "name": "Polish",
+            "info": "Drastically increases Defense for a short period of time.",
+            "message": "The ~User~ polishes himself to withstand any hit!",
+            "levels": 1,
+            "cost": 12,
+			"cast": 1,
+            "type": "support",
+            "target": "self",
+            "effect": {
+                "duration": 2,
+                "def": 825
+            }
+        },
+        "shoe": {
+            "name": "Shoe Throw",
+            "info": "Tosses a shoe at an enemy with set damage.",
+            "message": "~User~ throws a well-polished shoe at ~Target~!",
+            "levels": 5,
+            "cost": 8,
+            "type": "support",
+            "target": "enemy",
+            "effect": {
+                "breakCast": 0.2,
+                "target": {
+                    "hp": [
+                        -5,
+                        -10,
+                        -15,
+                        -20,
+                        -25
+                    ]
+                }
+            }
+        },
+        "burrow": {
+            "name": "Burrow",
+            "info": "An evasive maneuver to help reduce damage. Reduces Speed but increases Defense.",
+            "message": "~User~ burrows into the ground to hide!",
+            "levels": 5,
+            "cost": 0,
+            "effect": {
+                "user": {
+                    "spd": [
+                        -1,
+                        -1,
+                        -2,
+                        -2,
+                        -3
+                    ],
+                    "def": [
+                        1,
+                        3,
+                        5,
+                        7,
+                        9
+                    ]
+                }
+            },
+            "type": "support",
+            "target": "self"
+        },
+        "shriek": {
+            "name": "Shriek",
+            "info": "A distracting and empowering battle cry. Reduces Speed but increases Magic.",
+            "message": "~User~ shrieks! To war!",
+            "levels": 5,
+            "cost": 0,
+            "effect": {
+                "user": {
+                    "spd": [
+                        -1,
+                        -1,
+                        -2,
+                        -2,
+                        -3
+                    ],
+                    "mag": [
+                        1,
+                        3,
+                        5,
+                        7,
+                        9
+                    ]
+                }
+            },
+            "type": "support",
+            "target": "self"
+        },
+        "spit": {
+            "name": "Spit",
+            "info": "A disgraceful insult.",
+            "message": "~User~ spits at ~Target~! 'A plague upon your household!'",
+            "levels": 5,
+            "cost": 0,
+            "modifier": [
+                10,
+                12,
+                16,
+                22,
+                28
+            ],
+            "type": "magical",
+            "target": "enemy"
+        }
+		
+        "dentures": {
+            "name": "Dentures",
+            "info": "These wet, sticky old person teeth provide a 1-2% boost to most stats.",
+            "level": 20,
+            "type": "equip",
+			"slot": "head",
+            "cost": 5000,
+			"effect": {
+				"multiplier": {
+					"hp": 0.01,
+					"mp": 0.01,
+					"str": 0.02,
+					"def": 0.02,
+					"spd": 0.02,
+					"dex": 0.02,
+					"maG": 0.02
+				}
+			}
+        },
+        "fleece": {
+            "name": "Fleece",
+            "info": "A soft piece of fleece.",
+            "level": 1,
+            "type": "other",
+            "cost": 500
+        },
+        "fleece shawl": {
+            "name": "Fleece Shawl",
+            "info": "You killed a lot of alpacas to get this, didn't you?",
+            "level": 2,
+            "type": "equip",
+            "slot": "body",
+            "cost": 50,
+            "effect": {
+                "def": 5,
+                "spd": 2,
+                "mag": 1
+            }
+        },
+        "prune": {
+            "name": "Prune",
+            "info": "Restores 3% of Max HP and Mana.",
+            "type": "usable",
+            "level": 0,
+            "cost": 100,
+            "message": "You ate a nutritious soup and restored ~LifeGained~ HP and ~ManaGained~ Mana! You know have ~Life~ HP and ~Mana~ Mana!",
+            "effect": {
+                "hpPercent": 0.03,
+                "mpPercent": 0.03
+            }
+        },
+        "prune juice": {
+            "name": "Prune Juice",
+            "info": "Restores 39% of Max HP and Mana.",
+            "type": "usable",
+            "level": 0,
+            "cost": 1500,
+            "message": "You ate a nutritious soup and restored ~LifeGained~ HP and ~ManaGained~ Mana! You know have ~Life~ HP and ~Mana~ Mana!",
+            "effect": {
+                "hpPercent": 0.39,
+                "mpPercent": 0.39
+            }
+        },
+        "record disc": {
+            "name": "Record Disc",
+            "info": "Increases Defense, and allows the user to absorb 2% of damage dealt as Mana.",
+            "level": 20,
+            "type": "equip",
+			"slot": "lhand",
+            "cost": 5000,
+            "effect": {
+                "mpabsorb": 0.02,
+				"def": 15
+            }
+        },
+        "record needle": {
+            "name": "Record Needle",
+            "info": "Increases Strength and Magic, and allows the user to absorb 2% of damage dealt as HP.",
+            "level": 20,
+            "type": "equip",
+			"slot": "rhand",
+            "cost": 5000,
+            "effect": {
+                "hpabsorb": 0.02,
+				"str": 10,
+				"mag": 10
+            }
+        },
+        "record player": {
+            "name": "Record Player",
+            "info": "An old portable record player. Doubles accuracy, lowers evasion, and slightly raises other stats.",
+            "level": 80,
+            "type": "equip",
+			"slot": "2-hands",
+            "cost": 5000,
+            "effect": {
+                "accuracy": 2,
+                "evasion": 0.8,
+                "str": 15,
+				"def": 25,
+				"spd": 5,
+				"dex": 10,
+				"mag": 15
+            }
+        },
+        "rusty locket": {
+            "name": "Rusty Locket",
+            "info": "A rusty locket, someone's cherished possession... Increases strength and magic by 4%, speed by 8%, and the chance of critical hits by 32%.",
+            "level": 40,
+            "type": "equip",
+			"slot": "pendant",
+            "cost": 5000,
+            "effect": {
+                "critical": 1.32,
+				"multiplier": {
+					"str": 0.04,
+					"spd": 0.08,
+					"mag": 0.04
+				}
+            }
+        },
+        "saliva": {
+            "name": "Saliva",
+            "info": "A handful of warm alpaca saliva. Can be applied facially to rejuvenate, restore, and replenish 8 MP.",
+            "level": 0,
+            "type": "usable",
+            "cost": 30,
+            "message": "You ate a carrot and recovered 8 MP, so now you have ~ManaGained~ MP!",
+            "effect": {
+                "mp": 8
+            }
+        },
+        "shoes": {
+            "name": "Shoes",
+            "info": "A shiny pair of shoes meant to be worn on the... hands? Increases HP, MP, Def, and Evasion by 8%.",
+            "level": 40,
+            "type": "equip",
+            "slot": "2-hands",
+            "cost": 15000,
+            "effect": {
+                "multiplier": {
+                    "maxhp": 0.08,
+					"maxmp": 0.08,
+                    "def": 0.08
+                },
+				"evasion": 1.08
+            }
+        },
+        "suspenders": {
+            "name": "Suspenders",
+            "info": "Nifty suspenders that increase evasion by 10%, dexterity by 15%, and HP and MP by 25%.",
+            "level": 60,
+            "type": "equip",
+			"slot": "body",
+            "cost": 5000,
+            "effect": {
+                "evasion": 1.1,
+				"multiplier": {
+					"maxhp": 0.25,
+					"maxmp": 0.25,
+					"dex": 0.15
+				}
+            }
+        },
+        "tagcoin": {
+            "name": "Tag Coin",
+            "info": "A coin won in a game of Tag.",
+            "type": "key",
+            "cost": 1
+        },
+        "stagcoin": {
+            "name": "Silver Tag Coin",
+            "info": "Worth 10 normal Tag Coins.",
+            "type": "key",
+            "cost": 100
+        },
+        "gtagcoin": {
+            "name": "Gold Tag Coin",
+            "info": "Worth 100 normal Tag Coins.",
+            "type": "key",
+            "cost": 10000
+        }
+		
+        "hole": {
+			"name": "Rabbit Hole",
+			"alt": [
+				"rabbit hole"
+			],
+			"hide": true,
+			"info": "A dark cavern with a musky carrot scent. (level 40+)",
+			"welcome": "The air down here smells strongly of carrot and... rabbit. It'd be best to be careful in the dark. (INCOMPLETE)",
+			"type": "dungeon",
+			"access": [
+				"hill"
+			],
+			"requisites": {
+				"level": 40,
+				"events": {
+					"hole": true
+				}
+			},
+            "content": {
+                "*10": 0.01,
+                "rabbit40": 0.15,
+                "rabbit40:rabbit40": 0.2,
+                "grabbit40:rabbit40": 0.1,
+                "grabbit40:grabbit40": 0.05,
+                "grabbit40:grabbit40:rabbit40": 0.03,
+                "wrabbit40": 0.05,
+                "wrabbit40:rabbit40": 0.05,
+                "rabbit40:wrabbit40:grabbit40": 0.05,
+                "rabbit40:rabbit40:rabbit40": 0.05,
+                "wrabbit40:rabbit40:rabbit40": 0.03,
+                "wrabbit40:wrabbit40": 0.05,
+                "lrabbit40:rabbit40": 0.04,
+                "rabbit40:wrabbit40:grabbit40:lrabbit40": 0.01,
+                "*carrot": 0.03
+            }
+		},
+		"steppe": {
+			"name": "Alpaca Steppe",
+			"alt": [
+				"alpaca steppe"
+			],
+			"hide": true,
+			"info": "A bright outcropping of rock in the middle of the valley. (level 40+)",
+			"welcome": "The blinding sun reflects off of the rocks and the alpacas' shimmering fur. Watch out for what you can't see... (INCOMPLETE)",
+			"type": "dungeon",
+			"access": [
+				"valley"
+			],
+			"requisites": {
+				"level": 40,
+				"events": {
+					"steppe": true
+				}
+			},
+            "content": {
+                "*10": 0.01,
+                "alpaca40": 0.15,
+                "alpaca40:alpaca40": 0.2,
+                "bralpaca40:alpaca40": 0.1,
+                "bralpaca40:bralpaca40": 0.05,
+                "bralpaca40:bralpaca40:alpaca40": 0.03,
+                "blalpaca40": 0.05,
+                "blalpaca40:alpaca40": 0.05,
+                "alpaca40:blalpaca40:bralpaca40": 0.05,
+                "alpaca40:alpaca40:alpaca40": 0.05,
+                "blalpaca40:alpaca40:alpaca40": 0.03,
+                "blalpaca40:blalpaca40": 0.05,
+                "talpaca40:alpaca40": 0.04,
+                "alpaca40:blalpaca40:bralpaca40:talpaca40": 0.01,
+                "*saliva": 0.03
+            }
+		},
+		"cabin": {
+			"name": "Nyra's Cabin"
+			"alt": [
+				"nyra's cabin"
+			],
+			"info": "A cozy little cabin on the Grassy Slope.",
+			"welcome": "Nyra: Make sure to wipe your dirty feet on the grass before you come in! (INCOMPLETE)",
+			"type": "hidden",
+			"npc": {
+				"nyra": {
+					"message": "Nyra: I'm so glad you came to visit me. It's been hard, living on my own in this cabin, especially when I need to go into town for supplies.",
+					"notopic": "Nyra: Sorry, hon, but I don't know a thing about that.",
+					"nyra": {
+						"message": "Nyra: Yes, that's my name."
+					},
+					"peter": {
+						"message": "Nyra: NOT YET, YOU IDIOT"
+					},
+					"lilith": {
+						"message": "Nyra: NOT YET, YOU IDIOT"
+					},
+					"girl": {
+						"message": "Nyra: NOT YET, YOU IDIOT"
+					},
+					"boy": {
+						"message": "Nyra: NOT YET, YOU IDIOT"
+					},
+					"cobbler": {
+						"message": "Nyra: NOT YET, YOU IDIOT"
+					},
+					"cotton": {
+						"message": "Nyra: NOT YET, YOU IDIOT"
+					},
+					"fleece": {
+						"message": "Nyra: NOT YET, YOU IDIOT"
+					},
+				}
+			},
+			"access": [
+				"slope"
+			],
+			"requisites": {
+				"events": {
+					"cabinknock": true
+				}
+			}
+		},
+		"hill": {
+            "name": "Rabbit Hill",
+			"alt": [
+				"rabbit hill"
+			],
+            "info": "A grassy hill with a faint carrot smell. (level 1+)",
+            "welcome": "A familiar carrot smell wafts in the gentle breeze. An energetic man waves at you! Try talking to him with /t!",
+            "type": "dungeon",
+            "npc": {
+                "peter": {
+                    "message": "Peter the Energetic: Hello there! I have a couple quests for new adventurers. If you bring me 3 cottons, I can give you a new armor. Just type /talk peter:cotton. I also have a quest for you to kill those troublesome rabbits. Just do /talk peter:rabbit.",
+                    "notopic": "Peter the Energetic: Wuh... what? This isn't right. Try again.",
+                    "cotton": {
+                        "message": "Peter the Energetic: Thanks! Here's a cotton robe for your troubles.",
+                        "denymsg": "Peter the Energetic: You don't have 3 cottons! D: Go away!",
+                        "effect": {
+                            "exp": 300,
+                            "events": {
+                                "cotton": true
+                            },
+                            "items": {
+                                "cotton": -3,
+                                "cotton robe": 1
+                            }
+                        },
+                        "requisites": {
+                            "items": {
+                                "cotton": 3
+                            },
+                            "events": {
+                                "cotton": false
+                            },
+                            "level": 1
+                        }
+                    },
+                    "hole": {
+                        "message": "Peter the Energetic: There's a hole out there. They think I don't notice, but I do. I see them go down it sometimes. I don't know where they come back from. Or if they come back at all. Oh, there it is underneath that bush. You should go down there. Well, after you help me out, of course. Let's get to it!",
+						"effect": {
+							"events": {
+								"hole": true
+							}
+						}
+					},
+                    "gossip": {
+                        "message": "Peter the Energetic: So the rabbits did have something useful to say after all. See, I told you!",
+						"denymsg": "Peter the Energetic: I don't have a lot to say. But hey hey hey, maybe the rabbits do!",
+                        "requisites": {
+                            "events": {
+                                "hole": true
+                            }
+                        }
+                    },
+                    "rabbit": {
+                        "message": "Peter the Energetic: Good job! You cleared out the rabbits. Here's some money for your troubles.",
+                        "denymsg": "Peter the Energetic: The rabbits are still running rampant. Please kill 5 normal rabbits, 3 grey rabbits, 2 white rabbit and 1 large rabbit.",
+                        "effect": {
+                            "exp": 250,
+                            "gold": 20,
+                            "events": {
+                                "rabbit": true
+                            }
+                        },
+                        "requisites": {
+                            "hunt": {
+                                "rabbit": 5,
+                                "grabbit": 3,
+                                "wrabbit": 2,
+                                "lrabbit": 1
+                            },
+                            "events": {
+                                "rabbit": false
+                            }
+                        }
+                    },
+					"nyra": {
+						"message": "Peter the Energetic: Oh, have you met Mother? Well, is she lonely? Does she miss me? Am I allowed to see her? Oh, I wish I only knew...",
+						"effect": {
+							"events": {
+								"motherpeter": true
+							}
+						}
+					},
+					"lilith": {
+						"message": "Peter the Energetic: I'm sorry, but I have absolutely no idea of who she is.",
+						"effect": {
+							"events": {
+								"siblingpeter": true
+							}
+						}
+					}
+                },
+                "rabbit": {
+                    "hide": true,
+                    "message": "Rwabbiht: *nibblenibblenibblenibbleni-FREEZE* ... *blink* ... *jumps back down hole*",
+                    "notopic": "Rwabbiht: *nibblenibblenibblenibbleni-FREEZE* ... *blink* ... *jumps back down hole*"
+                }
+            },
+            "access": [
+                "gate",
+                "slope"
+            ],
+            "content": {
+                "*10": 0.01,
+                "rabbit": 0.15,
+                "rabbit:rabbit": 0.2,
+                "grabbit:rabbit": 0.1,
+                "grabbit:grabbit": 0.05,
+                "grabbit:grabbit:rabbit": 0.03,
+                "wrabbit": 0.05,
+                "wrabbit:rabbit": 0.05,
+                "rabbit:wrabbit:grabbit": 0.05,
+                "rabbit:rabbit:rabbit": 0.05,
+                "wrabbit:rabbit:rabbit": 0.03,
+                "wrabbit:wrabbit": 0.05,
+                "lrabbit:rabbit": 0.04,
+                "rabbit:wrabbit:grabbit:lrabbit": 0.01,
+                "*carrot": 0.03
+            }
+        },
+		"slope": {
+			"name": "Grassy Slope",
+			"alt": [
+				"grassy slope"
+			],
+			"info": "A sloping pathway connecting the Rabbit Hill and Alpaca Valley.",
+			"welcome": "A path winds up and down the slight incline. Apparently some people have decided to build their homes alongside it.",
+			"type": "connection",
+			"npc": {
+				"cobbler": {
+					"message": "Cobbler: Hmmm...? Oh, sorry, come back later. I'm a bit busy...",
+					"notopic": "Cobbler: Hmmm...? Oh, sorry, come back later. I'm a bit busy...",
+					"gossip": {
+						"message": "Cobbler: My kids have such big dreams! Maybe you should gossip with them too and find some inspiration of your own."
+					},
+					"play": {
+						"message": "Cobbler: Oh! If you want to 'play' with my kids, that'd be wonderful! I'm so busy these days that I barely get to spend time with them. Just make sure to not... um, 'punch' them. I'd be very sad if you did.",
+						"effect": {
+							"events": {
+								"playtag": true
+							}
+						}
+					},
+					"girl": {
+						"message": "Cobbler: Oh! Have you met my little girl? Isn't she just the sweetest?"
+					},
+					"boy": {
+						"message": "Cobbler: Oh! My boy is so shy! He's just like I was when I was his age! (Well, I'm not sure if that's a good thing...)"
+					},
+					"nyra": {
+						"message": "Cobbler: Oh, have you visited Old Lady Nyra in her cabin over there? Remember, it's only polite to 'knock' first..."
+					},
+					"cabin": {
+						"message": "Cobbler: Oh, have you visited Old Lady Nyra in her cabin over there? Remember, it's only polite to 'knock' first..."
+					},
+					"tag coin": {
+						"message": "Cobbler: Oh, did my kids give you that? I wish I could take it off your hands, but my house is already full of all the junk they find out here. But if I remember correctly, there's a man the next village over who used to play with my kids all the time to get those..."
+					},
+					"tag coins": {
+						"message": "Cobbler: Oh, did my kids give you that? I wish I could take it off your hands, but my house is already full of all the junk they find out here. But if I remember correctly, there's a man the next village over who used to play with my kids all the time to get those..."
+					}
+				},
+				"cabin": {
+					"message": "A sign with the name 'Nyra' stands in front of a cozy-looking wood cabin. You spot a pair of eyes peeking out at you from a window, but they quickly retreat back into the cabin...",
+					"notopic": "You yell at the cabin, but nobody responds to your nonsense...",
+					"knock": {
+						"message": "You knock on the cabin door... After a few seconds, you hear a quiet voice, almost like a whisper: 'Come in, come in...'",
+						"effect": {
+							"events": {
+								"cabinknock": true
+							}
+						}
+					}
+				},
+				"girl": {
+					"message": "Girl: Hi! D'ya wanna 'play' tag wit me and my brother?",
+					"notopic": "Girl: NO! I wanna 'play' tag!",
+					"gossip": {
+						"message": "Girl: I wanna be a Gladiator when I grow up! But everybody knows to do that ya gotta be a pretty good Barbarian first..."
+					},
+					"nyra": {
+						"message": "Girl: Oh! Make sure ta visit Miss Nyra in her cabin! She's really lonely. But she won't let ya in unless ya 'knock' first!"
+					},
+					"cabin": {
+						"message": "Girl: Oh! Make sure ta visit Miss Nyra in her cabin! She's really lonely. But she won't let ya in unless ya 'knock' first!"
+					},
+					"tag coin": {
+						"message": "Girl: If ya wanna learn about Tag Coins, talk to my daddy 'bout them. I wanna play 'tag'!"
+					},
+					"tag coins": {
+						"message": "Girl: If ya wanna learn about Tag Coins, talk to my daddy 'bout them. I wanna play 'tag'!"
+					},
+					"play": {
+						"message": "Girl: Did Daddy let ya play 'tag' wit us now? Yay! Ya gotta tag my brother now!",
+						"denymsg": "Girl: Sorry, but ya gotta talk to my Daddy first if ya wanna 'play'!",
+						"effect": {
+							"events": {
+								"playtag2": true,
+								"taggirl": true,
+								"tagboy": false
+							}
+						},
+						"requisites": {
+							"events": {
+								"playtag": true,
+								"taggirl": false
+							}
+						}
+					},
+					"tag": {
+						"message": "Girl: Yay! I tagged ya back, you're it now!",
+						"denymsg": "Girl: NO TAG BACKS!",
+						"effect": {
+							"events": {
+								"taggirl": true,
+								"tagboy": false
+							},
+							"items": {
+								"tagcoin": 1
+							},
+							"gold": 1
+						},
+						"requisites": {
+							"events": {
+								"playtag2": true,
+								"taggirl": false
+							}
+						}
+					},
+					"punch": {
+						"message": "You punched the little girl in the face, and thought that was the end of it... Nope. She decided to call upon the insatiable wrath of the neighbourhood. Looks like you've got some explaining to do...",
+						"denymsg": "You tried to punch the little girl in the face and missed. Hmmm... why not 'kick' her next?",
+						"effect": {
+							"soloMonsters": {
+								"villager": 13,
+								"citizen": 9,
+								"littleboy": 1,
+								"cobbler": 1,
+								"rabbit": 6,
+								"grabbit": 3,
+								"wrabbit": 3,
+								"alpaca": 2,
+								"bralpaca": 1,
+								"blalpaca": 1,
+								"dirt": 10
+							},
+							"events": {
+								"punchgirl": true
+							},
+						},
+						"requisites": {
+							"events": {
+								"punchgirl": false
+							}
+						}
+					},
+					"kick": {
+						"message": "You tried to kick the girl, but she jumped, got a death grip on your leg, swung you through the air, smashed you against a tree, punched you in the stomach nine times, jabbed two pressure points in your neck to paralyze you, shattered a few of your potions against your face, stabbed you in the groin with the broken vials, and took your lunch money. Oh no.",
+						"denymsg": "Girl: NO! I wanna 'play' tag!",
+						"effect": {
+							"hp": -1000000,
+							"mp": -1000000,
+							"gold": -50000
+						},
+						"requisites": {
+							"events": {
+								"punchgirl": true
+							}
+						}
+					}
+				},
+				"boy": {
+					"message": "Boy: Yayyyyyy, let's 'play' tag!",
+					"notopic": "Boy: But... I wanna 'play' tag... ;(",
+					"gossip": {
+						"message": "Boy: Are you an Artist? I want to be one when I grow up! But my daddy says I have to be a Scrapper first..."
+					},
+					"nyra": {
+						"message": "Boy: Nobody besides us ever visits Miss Nyra anymore since her kids left. You should say hi to her. Maybe it'd be best to 'knock' on her door first, though."
+					},
+					"cabin": {
+						"message": "Boy: Nobody besides us ever visits Miss Nyra anymore since her kids left. You should say hi to her. Maybe it'd be best to 'knock' on her door first, though."
+					},
+					"tag coin": {
+						"message": "Boy: I don't want to talk about that! Just ask my daddy later, let's play 'tag' now!"
+					},
+					"tag coins": {
+						"message": "Boy: I don't want to talk about that! Just ask my daddy later, let's play 'tag' now!"
+					},
+					"play": {
+						"message": "Boy: Yayyyyyyyyyy, let's play 'tag' now! You're it, tag my sister!",
+						"denymsg": "Boy: Ummm... you can't 'play' tag unless Daddy says you can. Sorry. ;(",
+						"effect": {
+							"events": {
+								"playtag2": true,
+								"tagboy": true,
+								"taggirl": false
+							},
+							"items": {
+								"tagcoin": 1
+							},
+							"gold": 1
+						},
+						"requisites": {
+							"events": {
+								"playtag": true,
+								"tagboy": false
+							}
+						}
+					},
+					"tag": {
+						"message": "Boy: *giggle* 'Tag', you're it again!",
+						"denymsg": "Boy: But... you're not allowed to tag back... ;(",
+						"effect": {
+							"events": {
+								"tagboy": true,
+								"taggirl": false
+							}
+						},
+						"requisites": {
+							"events": {
+								"playtag2": true,
+								"tagboy": false
+							}
+						}
+					},
+					"punch": {
+						"message": "You punched the little boy in the face, and he ran off crying... Oh no! An angry mob!",
+						"denymsg": "You tried to punch the little boy in the face and missed. Hmmm... why not 'kick' him next?",
+						"effect": {
+							"soloMonsters": {
+								"villager": 9,
+								"citizen": 13,
+								"littlegirl": 1,
+								"cobbler": 1,
+								"rabbit": 2,
+								"grabbit": 1,
+								"wrabbit": 1,
+								"alpaca": 6,
+								"bralpaca": 3,
+								"blalpaca": 3,
+								"dirt": 10
+							},
+							"events": {
+								"punchboy": true
+							},
+						},
+						"requisites": {
+							"events": {
+								"punchboy": false
+							}
+						}
+					},
+					"kick": {
+						"message": "You kicked the boy, but the angry mob swarmed and mugged you before you could run away...",
+						"denymsg": "Boy: But... I wanna 'play' tag... ;(",
+						"effect": {
+							"hp": -1000000,
+							"mp": -1000000,
+							"gold": -50000,
+							"items": {
+								"potion": -1,
+								"selixir": -1,
+								"melixir": -1
+							}
+						},
+						"requisites": {
+							"events": {
+								"punchboy": true
+							}
+						}
+					}
+				}
+			},
+			"access": [
+				"hill",
+				"valley",
+				"tower",
+				"cabin"
+			]
+		},
+        "tower f1": {
+            "name": "Tower, floor one",
+            "info": "The entrance and first floor of the Tower. Some old poets and bards tell tales of how mystical forces are at work in the Tower. Only one way to find out.",
+            "welcome": "You enter the first floor of the Tower. The room is large, yet desolate. In the back is a staircase leading to floor two. A featureless figure stands between you and the stairs. There is a sign here written in a language you can't make out.",
+            "type": "dungeon",
+            "noParty": true,
+            "noTrade": true,
+            "access": [
+                "slope",
+                "tower f2"
+            ],
+            "npc": {
+                "figure": {
+                    "message": "Figure: Who dares to climb the tower? If you wish to pass, you'll have to defeat me! When you're ready to challenge me, ask me to battle.",
+                    "notopic": "Figure: Do you want to test your skills or not?",
+                    "tower": {
+                        "message": "Figure: There is no turning back! Once you begin the climb up the tower, the only way back down is through death."
+                    },
+                    "stairs": {
+                        "message": "Figure: You must defeat me first!"
+                    },
+                    "sign": {
+                        "message": "Figure: The sign reads... This tower was built to find the best adventurers. There is little reward, but take pride in your accomplishment!"
+                    },
+                    "battle": {
+                        "message": "Figure: Ready, then? Let us begin.",
+                        "effect": {
+                            "soloMonsters": {
+                                "slimef1": 1
+                            }
+                        },
+                        "denymsg": "Figure: Again?",
+                        "requisites": {
+                            "maxitems": {
+                                "f2 key": 0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "tower f20": {
+            "name": "Tower, floor twenty",
+            "info": "The twentieth floor of the Tower.",
+            "welcome": "You enter the twentieth floor of the Tower. The room is large, yet desolate. In the back is a staircase leading back gown to the ground. A featureless figure stands between you and the stairs.",
+            "type": "dungeon",
+            "noParty": true,
+            "noTrade": true,
+            "access": [
+                "slope"
+            ],
+            "npc": {
+                "figure": {
+                    "message": "Figure: Who dares to climb the tower? If you wish to pass, you'll have to defeat me! When you're ready to challenge me, ask me to battle.",
+                    "notopic": "Figure: Do you want to test your skills or not?",
+                    "tower": {
+                        "message": "Figure: There is no turning back! Once you begin the climb up the tower, the only way back down is through death."
+                    },
+                    "stairs": {
+                        "message": "Figure: You must defeat me first!"
+                    },
+                    "battle": {
+                        "message": "Figure: Ready, then? Let us begin.",
+                        "effect": {
+                            "soloMonsters": {
+                                "t20dragon": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "requisites": {
+                "items": {
+                    "f20 key": 1
+                }
+            }
+        },
+		"valley": {
+            "name": "Alpaca Valley",
+			"alt": [
+				"alpaca valley"
+			],
+            "info": "A valley where the grass sways softly, and strands of soft hair float through the air. (level 1+)",
+            "welcome": "It's quiet here, bar the occasional wavering bleat. There's a young lady resting in the shade of a shrub. Try talking to her with /t.",
+            "type": "dungeon",
+            "npc": {
+                "lilith": {
+                    "message": "Lilith the Lax: Mmmm... oh? Why, hello there. There's not much to do today. I guess I can help you make something to wear. Just type /talk lilith:fleece... And would you mind shooing those alpacas away? I'm trying to sleep, so hurry up and /talk lilith:alpaca already...",
+                    "notopic": "Lilith the Lax: Mmmmmmmm... mmm, no.",
+                    "fleece": {
+                        "message": "Lilith the Lax: Mmm. Just a moment... mm. Here.",
+                        "denymsg": "Lilith the Lax: Mmmmm... you fool. 3, please...",
+                        "effect": {
+                            "exp": 300,
+                            "events": {
+                                "fleece": true
+                            },
+                            "items": {
+                                "fleece": -3,
+                                "fleece shawl": 1
+                            }
+                        },
+                        "requisites": {
+                            "items": {
+                                "fleece": 3
+                            },
+                            "events": {
+                                "fleece": false
+                            },
+                            "level": 1
+                        }
+                    },
+                    "steppe": {
+                        "message": "Lilith the Lax: Mmmmmmmmmmmm... ... ... MmmmmMMmmMMMM? How did you know!?... Yes, the steppe is popular with the older alpacas... I'll show you where it is, if you help me out. I'd advise you to be careful though out there...",
+						"effect": {
+							"events": {
+								"steppe": true
+							}
+						}
+					},
+                    "gossip": {
+                        "message": "Lilith the Lax: Mmmmmmm... I didn't know the alpac could talk... Mmm, amazing... Looks like they gave away their secret though...",
+						"denymsg": "Lilith the Lax: Mmmmm... why don't you try talking to one of the alpacas instead?...",
+                        "requisites": {
+                            "events": {
+                                "steppe": true
+                            }
+                        }
+                    },
+                    "alpaca": {
+                        "message": "Lilith the Lax: Mmm. How blissful it is now... mm. Here.",
+                        "denymsg": "Lilith the Lax: Mmmmmm... I can still hear them crying... Please tell me you heard, there's 5 normal alpacas, 3 brown alpacas, 2 black alpacas and 1 tiny alpaca...",
+                        "effect": {
+                            "exp": 250,
+                            "gold": 20,
+                            "events": {
+                                "alpaca": true
+                            }
+                        },
+                        "requisites": {
+                            "hunt": {
+                                "alpaca": 5,
+                                "bralpaca": 3,
+                                "blalpaca": 2,
+                                "talpaca": 1
+                            },
+                            "events": {
+                                "alpaca": false
+                            }
+                        }
+                    },
+					"nyra": {
+						"message": "Lilith the Lax: Mmmm! Oh, I haven't seen Mother in ages... I must pay a visit soon... mmmmm.",
+						"effect": {
+							"events": {
+								"motherlilith": true
+							}
+						}
+					},
+					"peter": {
+						"message": "Lilith the Lax: Mmmmmmmmmmmmmm...? Mm? MMM, mmm, MMMMMM...",
+						"effect": {
+							"events": {
+								"siblinglilith": true
+							}
+						}
+					}
+                },
+                "alpaca": {
+                    "hide": true,
+                    "message": "Ahlpacka: MaaaaaaaaaaaaaaaaaaaaaaaaaaaSTEPPEaaaaaaaaaa~",
+                    "notopic": "Ahlpacka: MaaaaaaaaaaaaaaaaaaaaaaaaaaaSTEPPEaaaaaaaaaa~"
+                }
+            },
+            "access": [
+                "village",
+                "slope"
+            ],
+            "content": {
+                "*10": 0.01,
+                "alpaca": 0.15,
+                "alpaca:alpaca": 0.2,
+                "bralpaca:alpaca": 0.1,
+                "bralpaca:bralpaca": 0.05,
+                "bralpaca:bralpaca:alpaca": 0.03,
+                "blalpaca": 0.05,
+                "blalpaca:alpaca": 0.05,
+                "alpaca:blalpaca:bralpaca": 0.05,
+                "alpaca:alpaca:alpaca": 0.05,
+                "blalpaca:alpaca:alpaca": 0.03,
+                "blalpaca:blalpaca": 0.05,
+                "talpaca:alpaca": 0.04,
+                "alpaca:blalpaca:bralpaca:talpaca": 0.01,
+                "*saliva": 0.03
+            }
+        },
+        "village": {
+            "name": "Mountain Village",
+            "alt": [
+                "mt village",
+                "mountain village"
+            ],
+            "info": "A village on the side of a mountain, outside of the caves. The people here seem to be at war with the Golems.",
+            "welcome": "Some of the peasants here salute you. There are wooden buildings of many sizes here, adorned with shiny gems. It seems to be a peaceful village. There are crowds of people at the hot springs.",
+            "type": "dungeon",
+			"npc": {
+				"old man": {
+					"message": "Old Man: *snore* *SNORE* *snore*",
+					"notopic": "Old Man: *snore* *SNORE* *snore*",
+					"wake": {
+						"message": "Old Man: *snor-* ...eh! Wuzzat? Eh! EHhhh! WEHHHHHHHHHHHH",
+						"denymsg": "Old Man: *snore* *SNORE* *snore*",
+						"effect": {
+                            "soloMonsters": {
+                                "crankyoldman": 1
+                            },
+							"events": {
+								"wakeoldman": true
+							}
+						},
+						"requisites": {
+							"events": {
+								"wakeoldman": false
+							}
+						}
+					},
+					"attack": {
+						"message": "Old Man: *snor-* ...eh! Wuzzat? Eh! EHhhh! WEHHHHHHHHHHHH",
+						"denymsg": "Old Man: *snore* *SNORE* *snore*",
+						"effect": {
+                            "soloMonsters": {
+                                "crankyoldman": 1
+                            },
+							"events": {
+								"wakeoldman": true
+							}
+						},
+						"requisites": {
+							"events": {
+								"wakeoldman": false
+							}
+						}
+					},
+					"punch": {
+						"message": "Old Man: *snor-* ...eh! Wuzzat? Eh! EHhhh! WEHHHHHHHHHHHH",
+						"denymsg": "Old Man: *snore* *SNORE* *snore*",
+						"effect": {
+                            "soloMonsters": {
+                                "crankyoldman": 1
+                            },
+							"events": {
+								"wakeoldman": true
+							}
+						},
+						"requisites": {
+							"events": {
+								"wakeoldman": false
+							}
+						}
+					},
+					"kick": {
+						"message": "Old Man: *snor-* ...eh! Wuzzat? Eh! EHhhh! WEHHHHHHHHHHHH",
+						"denymsg": "Old Man: *snore* *SNORE* *snore*",
+						"effect": {
+                            "soloMonsters": {
+                                "crankyoldman": 1
+                            },
+							"events": {
+								"wakeoldman": true
+							}
+						},
+						"requisites": {
+							"events": {
+								"wakeoldman": false
+							}
+						}
+					},
+					"tag coin": {
+						"message": "What's this? There's a paper sticking out of his pocket... apparently Tag Coins are all he can eat when he's this old. Poor thing. Why don't you make a deal with /t old man:tag coin:[itemName]?",
+                        "notrademsg": "You rifle through his pockets, but he doesn't seem to have what you want. Rude!",
+                        "nomaterialmsg": "You think about taking that from him, but it just wouldn't be right without Tag Coins to give him in return.",
+                        "acceptmsg": "You shove some Tag Coins into his drooling mouth. And look, something fell out of his pants!",
+                        "trade": {
+                            "prune": {
+                                "material": {
+                                    "tagcoin": 4
+                                },
+                                "reward": {
+                                    "prune": 1
+                                }
+                            },
+                            "prune juice": {
+                                "material": {
+                                    "tagcoin": 20,
+									"prune": 5
+                                },
+                                "reward": {
+                                    "prune juice": 1
+                                }
+                            },
+                            "record needle": {
+                                "material": {
+                                    "tagcoin": 150
+                                },
+                                "reward": {
+                                    "record needle": 1
+                                }
+                            },
+                            "record disc": {
+                                "material": {
+                                    "tagcoin": 150
+                                },
+                                "reward": {
+                                    "record disc": 1
+                                }
+                            },
+                            "dentures": {
+                                "material": {
+                                    "tagcoin": 198,
+									"stagcoin": 15
+                                },
+                                "reward": {
+                                    "dentures": 1
+                                }
+                            },
+                            "rusty locket": {
+                                "material": {
+                                    "tagcoin": 198,
+									"stagcoin": 30
+                                },
+                                "reward": {
+                                    "rusty locket": 1
+                                }
+                            },
+                            "suspenders": {
+                                "material": {
+                                    "tagcoin": 198,
+									"stagcoin": 50,
+									"gtagcoin": 2
+                                },
+                                "reward": {
+                                    "suspenders": 1
+                                }
+                            },
+                            "record player": {
+                                "material": {
+                                    "tagcoin": 198,
+									"stagcoin": 75,
+									"gtagcoin": 4
+                                },
+                                "reward": {
+                                    "record player": 1
+                                }
+                            },
+                            "silver tag coin": {
+                                "material": {
+                                    "tagcoin": 10
+                                },
+                                "reward": {
+                                    "stagcoin": 1
+                                }
+                            },
+                            "gold tag coin": {
+                                "material": {
+                                    "stagcoin": 10
+                                },
+                                "reward": {
+                                    "gtagcoin": 1
+                                }
+                            },
+                            "break silver tag coin": {
+                                "material": {
+                                    "stagcoin": 1
+                                },
+                                "reward": {
+                                    "tagcoin": 10
+                                }
+                            },
+                            "break gold tag coin": {
+                                "material": {
+                                    "gtagcoin": 1
+                                },
+                                "reward": {
+                                    "tagcoin": 100
+                                }
+                            }
+                        }
+					}
+				}
+			},
+            "access": [
+                "cave b2",
+                "spring",
+                "desert",
+				"valley"
+            ],
+            "requisites": {
+                "level": 15
+            }
+        }
