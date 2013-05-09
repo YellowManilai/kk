@@ -1,4 +1,30 @@
-        "alpaca40": {
+	"blalpaca": {
+            "name": "Black Alpaca",
+            "level": 4,
+            "exp": 53,
+            "gold": 3,
+            "stats": {
+                "hp": 49,
+                "dex": 2,
+                "mp": 0,
+                "str": 0,
+                "def": 3,
+                "spd": 5,
+                "mag": 3
+            },
+            "skills": {
+                "spit": 2
+            },
+            "strategy": {
+                "spit": 1
+            },
+            "loot": {
+                "none": 0.8,
+                "saliva": 0.1,
+                "fleece": 0.1
+            }
+        },
+	"alpaca40": {
             "name": "Ahlpacka",
             "level": 41,
             "exp": 13500,
