@@ -10,7 +10,7 @@
                 "str": 30,
                 "def": 55,
                 "spd": 40,
-                "mag": 50
+                "mag": 60
             },
             "skills": {
                 "spitx": 3,
@@ -40,7 +40,7 @@
                 "str": 40,
                 "def": 55,
                 "spd": 50,
-                "mag": 60
+                "mag": 70
             },
             "skills": {
 				"spitx": 4,
@@ -71,7 +71,7 @@
                 "str": 20,
                 "def": 65,
                 "spd": 50,
-                "mag": 50
+                "mag": 60
             },
             "skills": {
 				"spitx": 4,
@@ -417,7 +417,7 @@
                 "str": 30,
                 "def": 75,
                 "spd": 60,
-                "mag": 60
+                "mag": 70
             },
             "skills": {
                 "spitx": 5,
